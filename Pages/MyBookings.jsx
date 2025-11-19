@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Title from '../Component/title'
+import Title from '../Component/Title'
 import { assets, userBookingsDummyData } from '../src/assets/assets'
 
 const MyBookings = () => {
