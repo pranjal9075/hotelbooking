@@ -1,5 +1,5 @@
 import React from 'react'
-import Title from './title'
+import Title from './Title'
 import { testimonials } from '../src/assets/assets'
 import StarRating from './StarRating'
 
