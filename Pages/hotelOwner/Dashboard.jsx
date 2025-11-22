@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { assets ,dashboardDummyData} from '../../src/assets/assets';
-import Title from '../../Component/title';
+import Title from '../../Component/Title';
 
 
 const Dashboard = () => {
