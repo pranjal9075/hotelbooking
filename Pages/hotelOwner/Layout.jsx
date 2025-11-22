@@ -1,5 +1,5 @@
- import React from 'react'
- import Navbar from '../../Component/hotelOwner/Navbar'
+import React from 'react'
+import Navbar from '../../Component/hotelOwner/Navbar'
 import Sidebar from '../../Component/hotelOwner/Sidebar'
 import { Outlet } from 'react-router-dom'
  
