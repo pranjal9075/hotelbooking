@@ -105,7 +105,7 @@ export default function Experience({ experiences = sampleExperiences }) {
           <select
             value={minRating}
             onChange={(e) => setMinRating(Number(e.target.value))}
-            className="px-4 py-2 rounded-lg w-full md:w-40 bg-white/10 border border-white/20 text-white"
+            className="px-4 py-2 rounded-lg w-full md:w-40 bg-white/10 border border-white/20 text-black"
           >
             <option value={0}>All ratings</option>
             <option value={4}>4+</option>
